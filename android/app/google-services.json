@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "531356587935",
+    "project_id": "finalproject-ed9e4",
+    "storage_bucket": "finalproject-ed9e4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:531356587935:android:35db4a42e924db4dd88faa",
+        "android_client_info": {
+          "package_name": "com.example.tomiwa_project"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAE4fmQbe_kKAVP7GdUnKtXcOjtvmBJ1pI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
